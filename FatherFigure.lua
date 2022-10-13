@@ -1,4 +1,4 @@
--- Made by IOC (@rqmane on roblox), Ping me if there are any issues. If you're going to use this, please give me credits
+-- Made by IOC, If you're going to use this, please give me credits
 
 _G["Config"] = {
     ["DadNameAndAge"] = "rqmane | 39";
